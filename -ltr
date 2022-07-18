@@ -1,0 +1,41 @@
+[33mcommit f3a50daeac0dfb3d93b85931a312bc5adbcd6601[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Mon Jul 18 13:49:50 2022 +0000
+
+    added new feature file
+
+[33mcommit 69b1af12af52e66665858fd97e3125c7b21bd72f[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Sat Jul 16 17:30:01 2022 +0000
+
+    adding third line in  madhu file
+
+[33mcommit ffb623eae45d0bd014c879287687e954b153ae98[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Sat Jul 16 17:19:05 2022 +0000
+
+    adding madhu file
+
+[33mcommit 145bf780fb5274cd15ea0720aa917e157405e4b8[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Sat Jul 16 17:04:57 2022 +0000
+
+    adding test file
+
+[33mcommit 7b85c7d5f82c82b8b38ec18715f5329838c9086b[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Sat Jul 16 16:56:26 2022 +0000
+
+    adding new files modifying example file
+
+[33mcommit 6308f6a93711fda2c119192c57407915ef4e1470[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Sat Jul 16 15:47:34 2022 +0000
+
+    adding example file
+
+[33mcommit e3d40af4be24d029eb4550ce00a07f2bbf1171b3[m
+Author: EC2 Default User <ec2-user@ip-172-31-41-153.ap-south-1.compute.internal>
+Date:   Sat Jul 16 15:35:07 2022 +0000
+
+    adding sample file
